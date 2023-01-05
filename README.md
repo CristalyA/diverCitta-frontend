@@ -1,46 +1,66 @@
-# Getting Started with Create React App
+<h1 align=center> Projeto Integrador - Bootcamp Java Full Stack 💻 </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align=center> DiverCittà </h2>
 
-## Available Scripts
+<p align=center> Desenvolvimento de uma Rede social com o intuito de construir comunidades mais sustentáveis para pessoas PCDs 🧑🏻‍🦼</p>
 
-In the project directory, you can run:
+<p align="center"> •
+ <a href="#objetivo">Objetivos</a> •
+ <a href="#ods">ODS</a> •
+ <a href="#motivacoes">Motivações do Projeto</a> •
+ <a href="#ferramentas">Ferramentas Utilizadas</a> •
+ <a href="#autoras">Autoras do Projeto</a>  
+</p>
 
-### `npm start`
+<h4 align="center"> 
+	🚧  Projeto Integrador em Construção... 🚧
+</h4>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<a name="objetivo"><h2>Objetivos do Projeto</h2></a>
+<p>Trazer visibilidade e destacar a causa de comunidades sustentáveis através de uma Rede Social voltada para a conscientização e comunicação de ambientes seguros e adequados para famílias PCD, gerando vínculo e identificação entre seus usuários para que se sintam incluídos e descubram novas comunidades.</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<a name="ods"><h2> ODS - 11 Cidades e Comunidades Sustentáveis </h2></a>
+<h3>Meta 11.7</h3>
+<p>Nações Unidas: Até 2030, proporcionar o acesso universal a espaços públicos seguros, inclusivos, acessíveis e verdes, particularmente para as mulheres e crianças, pessoas idosas e pessoas com deficiência.</p>
 
-### `npm test`
+### Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [x] Documentação dos principais pontos do projeto;
+- [x] Modelando o DER do Banco de Dados com MySQL;
+- [x] Integração com Spring/Java;
+- 	[x] 1. Criação do CRUD para a parte de Temas;
+- 	[x] 2. Criação do CRUD para a parte de Postagens;
+- [ ] Desenvolvimento no Front web com HTML, CSS e frameworks. 
 
-### `npm run build`
+<a name="motivacoes"><h2>Motivações do Projeto</h2></a>
+<h3>Por que?❓</h3>
+<p>Porque queremos uma sociedade igualitária e acessível a todos. E parte da comunidade PCD enfrenta problemas emocionais e essa conexão ajudará a reduzir o peso emocional de toda a situação, com a interação entre pessoas que passam pela mesma situação.</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h3>Como? 🤔 </h3>
+<p>Aumentando e promovendo a visibilidade de espaços, ambientes e comunidades seguras, que apresentam melhor preparo para famílias PCD, além de gerar conexões e vínculos entre famílias e pessoas para um ambiente de acolhimento. </p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h3>O quê? ✍🏻 </h3>
+<p>As habilidades de interação e comunicação são os pilares do projeto. Assim nos direcionando ao nosso principal objetivo que é trazer um canal de atualizações e comunicação para avisar sobre ambientes seguros, receptivos para essas famílias e encontros de interação.</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<a name="ferramentas"><h2>Ferramentas e tecnologias utilizadas 🔧</h2></a>
+* Java/Spring para Back-end; 
+* MySQL para Banco de Dados;
+* HTML, CSS, React e Angular para Front-end. 
+  
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+ ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+ ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a name="autoras"><h2>Autoras do Projeto 🧑🏻‍💻</h2></a>  
+* Cristaly Medeiros | [@CristalyA](https://github.com/cristalyA)
+* Eliane dos Santos Pereira Silva | [@eliane-sp-silva](https://github.com/eliane-sp-silva)
+* Juliana Nonaka Udvari | [@juliana-nonaka](https://github.com/juliana-nonaka)
+* Leticia Santos | [@leticiasantos94](https://github.com/leticiasantos94)
+* Leticia Moneda | [@monedales](https://github.com/monedales)
+* Lucy Suxo | [@LucySuxo](https://github.com/LucySuxo)
+* Paula Mayumi | [@mayumisiano](https://github.com/mayumisiano)
+ 
